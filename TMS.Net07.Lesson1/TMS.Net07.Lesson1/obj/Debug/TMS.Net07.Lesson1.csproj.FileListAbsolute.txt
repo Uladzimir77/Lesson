@@ -1,0 +1,7 @@
+C:\Lesson\TMS.Net07.Lesson1\TMS.Net07.Lesson1\bin\Debug\TMS.Net07.Lesson1.exe.config
+C:\Lesson\TMS.Net07.Lesson1\TMS.Net07.Lesson1\bin\Debug\TMS.Net07.Lesson1.exe
+C:\Lesson\TMS.Net07.Lesson1\TMS.Net07.Lesson1\bin\Debug\TMS.Net07.Lesson1.pdb
+C:\Lesson\TMS.Net07.Lesson1\TMS.Net07.Lesson1\obj\Debug\TMS.Net07.Lesson1.csprojAssemblyReference.cache
+C:\Lesson\TMS.Net07.Lesson1\TMS.Net07.Lesson1\obj\Debug\TMS.Net07.Lesson1.csproj.CoreCompileInputs.cache
+C:\Lesson\TMS.Net07.Lesson1\TMS.Net07.Lesson1\obj\Debug\TMS.Net07.Lesson1.exe
+C:\Lesson\TMS.Net07.Lesson1\TMS.Net07.Lesson1\obj\Debug\TMS.Net07.Lesson1.pdb
